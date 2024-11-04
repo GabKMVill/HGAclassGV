@@ -4,7 +4,7 @@ author: "Gabrielle Villafana"
 date: "2024-11-04"
 output: 
  html_document:
-  theme: cerulean
+  theme: spacelab
 ---
 
 ```{r setup, include=FALSE}
@@ -12,6 +12,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Homepage
-Lab g2 connecting a GitHub repo to R studio. Create a new README.
+Lab g2 connecting a GitHub repo to R studio.
 
 
