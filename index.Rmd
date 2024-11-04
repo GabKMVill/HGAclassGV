@@ -12,6 +12,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Homepage
-Lab g2 connecting a GitHub repo to R studio. 
+Lab g2 connecting a GitHub repo to R studio. Create a new README.
 
 
